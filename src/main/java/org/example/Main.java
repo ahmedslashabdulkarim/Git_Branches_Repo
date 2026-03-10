@@ -4,6 +4,8 @@ public class Main {
     static void main(String[] args) {
 
         System.out.println("Erster SChritt");
+        System.out.println("Hello");
+        System.out.println(" World");
 
 
 
