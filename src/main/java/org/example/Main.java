@@ -10,7 +10,9 @@ public class Main {
         System.out.println("Hello World");
         System.out.println("Hello von test-1 ");
 
-
+        int x = 1;
+        int y = 2;
+        System.out.println(x + y);
 
 
     }
